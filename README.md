@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, node, express, OOP, Database**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BGCtRUFHEUX8QVrMdIk_pmHV2nAP3elZ/view?usp=sharing](https://drive.google.com/file/d/1BGCtRUFHEUX8QVrMdIk_pmHV2nAP3elZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BGCtRUFHEUX8QVrMdIk_pmHV2nAP3elZ/view?usp=sharing]()
 
 - ⚡ Fun fact **I'm A Quick Learner**
 
