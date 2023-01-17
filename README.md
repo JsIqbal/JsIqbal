@@ -1,5 +1,6 @@
 <h1 align="center">This is Iqbal</h1>
-<p> Believes that Software Engineering is pure phylosphy.
+<p> Believes that Software Engineering is pure phylosphy.</p>
+
 - currently working on [Middleware](https://cesomni.com/)
 
 - currently learning **Software Engineering**
