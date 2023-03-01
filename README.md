@@ -1,6 +1,9 @@
 <h1 align="center">This is Iqbal</h1>
 <p  align="center"> Believes that Software Engineering is pure phylosphy.</p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - currently working on [Middleware](https://cesomni.com/)
 
 - currently learning **Software Engineering**
