@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript, React, Node, Frontend, Backend**
 
-- Certification on -  [Node.js](https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing)
+- Certification on -  [Node.js](`https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing ${target="_blank"}`)
 
 - Certification on -  [React.js](https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing)
 
