@@ -38,7 +38,7 @@
  
  
  
- [![Iqbal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JsIqbal&theme=high-contrast)](https://github.com/JsIqbal/github-readme-activity-graph)
+<!--  [![Iqbal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JsIqbal&theme=high-contrast)](https://github.com/JsIqbal/github-readme-activity-graph) -->
  
  
 ---
