@@ -3,22 +3,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-- currently working on [Middleware](https://cesomni.com/)
-
-- currently learning **Software Engineering**
-
-- looking to collaborate on **comming soon**
-
-- 💬 Ask me about **JavaScript, React, Node, Frontend, Backend**
-
-- Certification on -  [Node.js](https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing)
-
-- Certification on -  [React.js](https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing)
-
-- My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing)
-
-- Reach me in **https://www.linkedin.com/in/jsiqbal/**
+Left Column	Right Column
+currently working on Middleware	💬 Ask me about JavaScript, React, Node, Frontend, Backend
+currently learning Software Engineering	Certification on - Node.js
+looking to collaborate on coming soon	Certification on - React.js
+My Resume - Know Iqbal More!	Reach me in https://www.linkedin.com/in/jsiqbal/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
