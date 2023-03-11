@@ -16,6 +16,8 @@
 
 - Certification on -  [React.js](https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing)
 
+- My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing)
+
 - Reach me in **https://www.linkedin.com/in/jsiqbal/**
 
 <h3 align="left">Connect with me:</h3>
