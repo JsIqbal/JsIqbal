@@ -3,11 +3,46 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-Left Column	Right Column
-currently working on Middleware	💬 Ask me about JavaScript, React, Node, Frontend, Backend
-currently learning Software Engineering	Certification on - Node.js
-looking to collaborate on coming soon	Certification on - React.js
-My Resume - Know Iqbal More!	Reach me in https://www.linkedin.com/in/jsiqbal/
+
+<!-- - currently working on [Middleware](https://cesomni.com/)
+
+- currently learning **Software Engineering**
+
+- looking to collaborate on **comming soon**
+
+- 💬 Ask me about **JavaScript, React, Node, Frontend, Backend**
+
+- Certification on -  [Node.js](https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing)
+
+- Certification on -  [React.js](https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing)
+
+- My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing)
+
+- Reach me in **https://www.linkedin.com/in/jsiqbal/** -->
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <!-- First element -->
+    <h3>Currently working on:</h3>
+    <p><a href="https://cesomni.com/">Middleware</a></p>
+    <h3>Currently learning:</h3>
+    <p>Software Engineering</p>
+    <h3>Ask me about:</h3>
+    <p>JavaScript, React, Node, Frontend, Backend</p>
+  </div>
+  <div style="flex: 1;">
+    <!-- Second element -->
+    <h3>Certifications:</h3>
+    <ul>
+      <li><a href="https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing">Node.js</a></li>
+      <li><a href="https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing">React.js</a></li>
+    </ul>
+    <h3>Resume:</h3>
+    <p><a href="https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing">Know Iqbal More!</a></p>
+    <h3>Connect with me:</h3>
+    <p><a href="https://www.linkedin.com/in/jsiqbal/">LinkedIn</a></p>
+  </div>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
