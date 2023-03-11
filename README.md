@@ -19,7 +19,8 @@
 - My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing)
 
 - Reach me in **https://www.linkedin.com/in/jsiqbal/** -->
-<div class="container">
+<div style={{display: "flex",
+  flex-direction: "row"}}>
   <div class="item">
     <p>Currently working on <a href="https://cesomni.com/">Middleware</a></p>
     <p>Currently learning <strong>Software Engineering</strong></p>
