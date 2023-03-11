@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!-- - currently working on [Middleware](https://cesomni.com/)
+- currently working on [Middleware](https://cesomni.com/)
 
 - currently learning **Software Engineering**
 
@@ -18,24 +18,7 @@
 
 - My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing)
 
-- Reach me in **https://www.linkedin.com/in/jsiqbal/** -->
-<div style={{display: "flex",
-  flex-direction: "row"}}>
-  <div class="item">
-    <p>Currently working on <a href="https://cesomni.com/">Middleware</a></p>
-    <p>Currently learning <strong>Software Engineering</strong></p>
-    <p>Looking to collaborate on <strong>coming soon</strong></p>
-    <p>💬 Ask me about <strong>JavaScript, React, Node, Frontend, Backend</strong></p>
-  </div>
-  <div class="item">
-    <p>Certification on - <a href="https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing">Node.js</a></p>
-    <p>Certification on - <a href="https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing">React.js</a></p>
-    <p>My Resume - <a href="https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing">Know Iqbal More!</a></p>
-    <p>Reach me in <a href="https://www.linkedin.com/in/jsiqbal/">https://www.linkedin.com/in/jsiqbal/</a></p>
-  </div>
-</div>
-
-
+- Reach me in **https://www.linkedin.com/in/jsiqbal/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
