@@ -19,29 +19,21 @@
 - My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing)
 
 - Reach me in **https://www.linkedin.com/in/jsiqbal/** -->
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <!-- First element -->
-    <h3>Currently working on:</h3>
-    <p><a href="https://cesomni.com/">Middleware</a></p>
-    <h3>Currently learning:</h3>
-    <p>Software Engineering</p>
-    <h3>Ask me about:</h3>
-    <p>JavaScript, React, Node, Frontend, Backend</p>
+<div class="container">
+  <div class="item">
+    <p>Currently working on <a href="https://cesomni.com/">Middleware</a></p>
+    <p>Currently learning <strong>Software Engineering</strong></p>
+    <p>Looking to collaborate on <strong>coming soon</strong></p>
+    <p>💬 Ask me about <strong>JavaScript, React, Node, Frontend, Backend</strong></p>
   </div>
-  <div style="flex: 1;">
-    <!-- Second element -->
-    <h3>Certifications:</h3>
-    <ul>
-      <li><a href="https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing">Node.js</a></li>
-      <li><a href="https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing">React.js</a></li>
-    </ul>
-    <h3>Resume:</h3>
-    <p><a href="https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing">Know Iqbal More!</a></p>
-    <h3>Connect with me:</h3>
-    <p><a href="https://www.linkedin.com/in/jsiqbal/">LinkedIn</a></p>
+  <div class="item">
+    <p>Certification on - <a href="https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing">Node.js</a></p>
+    <p>Certification on - <a href="https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing">React.js</a></p>
+    <p>My Resume - <a href="https://drive.google.com/file/d/1NnRKY3tRAMzZeveAqif5AWnXHAKUkoiY/view?usp=sharing">Know Iqbal More!</a></p>
+    <p>Reach me in <a href="https://www.linkedin.com/in/jsiqbal/">https://www.linkedin.com/in/jsiqbal/</a></p>
   </div>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
