@@ -32,7 +32,8 @@
 ---
 
  ## 📊 Github Stats
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsIqbal&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/JsIqbal/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsIqbal&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/JsIqbal/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsIqbal)](https://github.com/JsIqbal/github-readme-stats)
  
 
  
