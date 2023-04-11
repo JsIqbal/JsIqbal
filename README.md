@@ -8,7 +8,7 @@
 
 - currently learning **Software Engineering**
 
-- looking to collaborate on **comming soon**
+- looking to collaborate on [iblog](https://github.com/JsIqbal/iblog.git)
 
 - 💬 Ask me about **JavaScript, React, Node, Frontend, Backend**
 
