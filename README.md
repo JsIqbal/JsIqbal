@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- currently working on [Middleware](https://cesomni.com/) | [Ecommerce](https://github.com/UitsHabib/e-commerce.git) | [Microsite](https://github.com/JsIqbal/type-script.git)
+- currently working on [Middleware](https://cesomni.com/) | [Ecommerce](https://github.com/UitsHabib/e-commerce.git) | [Microsite](https://github.com/JsIqbal/type-script.git) | [billing](https://github.com/JsIqbal/ibilling.git)
 
 - currently learning **Software Engineering**
 
