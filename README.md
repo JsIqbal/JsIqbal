@@ -40,8 +40,6 @@
 
 <a align="center" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" width="40" height="40"/>
-</a><a href="https://en.wikipedia.org/wiki/Microservices" target="_blank" rel="noreferrer">
-  <img src="https://example.com/your-microservices-logo.png" alt="Microservices" width="40" height="40"/>
 </a>
 
 
