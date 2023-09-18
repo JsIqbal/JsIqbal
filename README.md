@@ -12,7 +12,7 @@
 
 - looking to collaborate on [iblog](https://github.com/JsIqbal/iblog.git)
 
-- 💬 Ask me about **JavaScript, React, Node, Frontend, Backend**
+- 💬 Ask me about **GoLang, JavaScript, TypeScript, Nextjs, React, Nodejs, Frontend, Backend**
 
 - Certification on -  [Node.js](https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing)
 
