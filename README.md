@@ -1,6 +1,6 @@
 <h1 align="center">This is Iqbal</h1>
 <p  align="center">
-  Software engineer with 2+ years of experience. Worked for innovative startups, large enterprise products. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
+  Software engineer with 2+ years of experience. Working for Axiata & large enterprise products. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
