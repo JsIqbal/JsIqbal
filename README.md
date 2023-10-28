@@ -8,7 +8,7 @@
 
 - currently working on [Middleware](https://cesomni.com/) | [Ecommerce](https://github.com/JsIqbal/next-ecommerce.git) | [Microsite](https://github.com/JsIqbal/type-script.git) | [billing](https://github.com/JsIqbal/ibilling.git)
 
-- currently learning **Software Engineering**
+- currently learning **Software Engineering, Microservices, DevOps**
 
 - looking to collaborate on [iblog](https://github.com/JsIqbal/iblog.git)
 
