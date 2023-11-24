@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- currently working on [Middleware](https://cesomni.com/) | [Ecommerce](https://github.com/JsIqbal/next-ecommerce.git) | [Microsite](https://github.com/JsIqbal/type-script.git) | [billing](https://github.com/JsIqbal/ibilling.git)
+- currently working on [Ecommerce](https://github.com/JsIqbal/next-ecommerce.git) | [Microsite](https://github.com/JsIqbal/type-script.git) | [Digital Reward](http://103.191.178.71:3000/)
 
 - currently learning **Software Engineering, Microservices, DevOps**
 
