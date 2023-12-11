@@ -8,7 +8,7 @@
 
 - currently working on [Ecommerce](https://github.com/JsIqbal/next-ecommerce.git) | [Microsite](https://github.com/JsIqbal/type-script.git) | [Digital Reward](http://103.191.178.71:3000/)
 
-- currently learning **Software Engineering, Microservices, DevOps**
+- currently learning **Software Engineering, Microservices, DevOps, AWS**
 
 - looking to collaborate on [iblog](https://github.com/JsIqbal/iblog.git)
 
