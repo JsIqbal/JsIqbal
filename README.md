@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- currently working on [Ecommerce](https://sharetrip.net)
+- currently working on [ShareTrip](https://sharetrip.net)
 
 - currently learning **Programming, Software Engineering, Microservices, DevOps, AWS**
 
