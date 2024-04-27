@@ -1,6 +1,6 @@
 <h1 align="center">This is Iqbal</h1>
 <p  align="center">
-  Software engineer with 2+ years of experience. Working for Bangladesh first and largest all in one travel solution company as a software engineer. Applying my engineering experience into the product: sharetrip.net
+  Software engineer with 2+ years of experience. Working for Bangladesh first and largest all in one travel solution company as a software engineer. Applying my engineering experience into the product: [ShareTrip](https://sharetrip.net)
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -8,7 +8,7 @@
 
 - currently working on [ShareTrip](https://sharetrip.net)
 
-- currently learning **Programming, Software Engineering, Microservices, DevOps, AWS**
+- currently practicing **Programming, Software Engineering, Microservices, DevOps, AWS, kubernetes, docker**
 
 - looking to collaborate on : Will let you know
 
@@ -17,6 +17,8 @@
 - Certification on -  [Node.js](https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing)
 
 - Certification on -  [React.js](https://drive.google.com/file/d/1nlvSWZX1BlIFNY0g-iWLXBPuReWDle7V/view?usp=sharing)
+  
+- Certification on -  [Docker](https://drive.google.com/file/d/1zX1cE7XdYzDh-OrIJOQrxPG9LM9DPc2g/view?usp=sharing)
 
 - My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1-R_RExrdSejketMxHiiy2nqTqqeeu0C5/view?usp=sharing)
   
