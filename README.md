@@ -20,7 +20,7 @@
   
 - Certification on -  [Docker](https://drive.google.com/file/d/1zX1cE7XdYzDh-OrIJOQrxPG9LM9DPc2g/view?usp=sharing)
 
-- My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1-R_RExrdSejketMxHiiy2nqTqqeeu0C5/view?usp=sharing)
+- My Resume -  [Know Iqbal More!](https://drive.google.com/file/d/1ETiVZAF5fW5tTj8c2IJzQo96Y-5Kblzm/view?usp=sharing)
   
 - My Portfolio -  [Nextjs Portfolio!](https://portfolio-jsiqbal.vercel.app/)
 
