@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/jsiqbal"><img src="https://api.daily.dev/devcards/v2/Cw0gDmbaU8JFToLLZHmuO.png?type=default&r=wy8" width="356" alt="Iqbal Hossain's Dev Card"/></a>
+<div align="center"><a href="https://app.daily.dev/jsiqbal"><img src="https://api.daily.dev/devcards/v2/Cw0gDmbaU8JFToLLZHmuO.png?type=default&r=wy8" width="356" alt="Iqbal Hossain's Dev Card"/></a> </div>
 
 
 <p  align="center">
