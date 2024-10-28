@@ -1,11 +1,10 @@
-<div align="center"><a href="https://app.daily.dev/jsiqbal"><img src="https://api.daily.dev/devcards/v2/Cw0gDmbaU8JFToLLZHmuO.png?type=default&r=wy8" width="356" alt="Iqbal Hossain's Dev Card"/></a> </div>
-
-
 <p  align="center">
   Software engineer with fast paced experience. Working for Bangladesh first and largest all in one travel solution company as a software engineer. Applying my engineering experience into the product: https://sharetrip.net
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center"><a href="https://app.daily.dev/jsiqbal"><img src="https://api.daily.dev/devcards/v2/Cw0gDmbaU8JFToLLZHmuO.png?type=default&r=wy8" width="356" alt="Iqbal Hossain's Dev Card"/></a> </div>
 
 - portfolio [Portfolio](https://jsiqbal.vercel.app)
 
