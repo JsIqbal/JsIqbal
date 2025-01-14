@@ -8,8 +8,6 @@
 
 - portfolio [Portfolio](https://jsiqbal.vercel.app)
 
-- currently working on [ShareTrip](https://sharetrip.net)
-
 - currently practicing **Programming, Software Engineering, Microservices, DevOps, AWS, kubernetes, docker**
 
 - looking to collaborate on : Will let you know
