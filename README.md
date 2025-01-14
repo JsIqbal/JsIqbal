@@ -2,6 +2,8 @@
   A Software Engineer working on Shape Shifting world economy!
 </h3>
 
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center"> <a href="https://app.daily.dev/jsiqbal"><img src="https://api.daily.dev/devcards/v2/Cw0gDmbaU8JFToLLZHmuO.png?type=wide&r=wy8" width="652" alt="Iqbal Hossain's Dev Card"/></a> </div>
