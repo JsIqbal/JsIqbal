@@ -1,5 +1,5 @@
 <h3  align="center">
-  Highly Intelligent Software Engineer working on Shape Shifting world economy!
+  A Software Engineer working on Shape Shifting world economy!
 </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsIqbal&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
