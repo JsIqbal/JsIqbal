@@ -57,20 +57,12 @@ At DigitalZet, I specialize in **cloud-native architectures, microservices, and 
 
 ---
 
-## 🎯 Fun Fact
-
-💡 **I don’t just build software—I engineer high-performance systems that redefine industries.** 🚀  
-💯 **Scalability | Security | Innovation | Performance | Engineering Excellence**
-
----
-
 ## 🔥 Let's Connect & Innovate!
 
 Got a **next-level** project? Want to **revolutionize** an industry? Let's build something extraordinary.
 
 📩 **Reach out on [LinkedIn](https://www.linkedin.com/in/jsiqbal/)**  
-🌎 **Check out my Portfolio: [jsiqbal.vercel.app](https://jsiqbal.vercel.app)**  
-🚀 **Building the next-gen **payment solutions & scalable platforms—let’s innovate together!**
+🌎 **Check out my Portfolio: [jsiqbal.vercel.app](https://jsiqbal.vercel.app)**
 
 ---
 
