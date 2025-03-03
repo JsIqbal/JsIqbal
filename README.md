@@ -1,9 +1,7 @@
 <h1 align="center">THE KRAKEN</h1>
 
 <p align="center">
-  <b>Lead Operations @ CatoPay | Lead Software Engineer @ DigitalZet</b>
-  <br>
-  <i>Building Next-Level Payment Solutions, Scalable Software, & High-Performance Architectures</i>
+  <i>Building Next-Level Solutions, Scalable Software, & High-Performance Architectures</i>
 </p>
 
 ---
