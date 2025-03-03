@@ -8,16 +8,6 @@
 
 ---
 
-## 💼 Leadership & Expertise
-
-### 🚀 **Lead Operations @ CatoPay**  
-CatoPay is revolutionizing **payment solutions** with cutting-edge **security, scalability, and real-time processing.** As Lead Operations, I oversee **system architecture, security, DevOps, and engineering excellence** to drive next-gen fintech innovations.
-
-### 🛠 **Lead Software Engineer @ DigitalZet**  
-At DigitalZet, I specialize in **cloud-native architectures, microservices, and scalable backend solutions** to power high-traffic applications, betting platforms, and **serverless infrastructures.**
-
----
-
 ## 🔥 My Tech Stack & Expertise
 
 ### 💡 **Core Engineering Areas**
