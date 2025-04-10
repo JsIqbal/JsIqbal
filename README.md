@@ -13,7 +13,7 @@
 - ⚡ **Frontend:** React, Next.js, Vue.js, Angular, ShadcnUI, TailwindCSS, Bootstrap
 - ☁️ **Cloud & DevOps:** AWS, Cloudflare, Vercel, Docker, Kubernetes, Terraform
 - 🛠 **CI/CD & Infrastructure:** GitHub Actions, Jenkins, Terraform, Serverless Framework, Helm
-- 🎯 **Best Practices:** Domain-Driven Design (DDD), Microservices, Event-Driven Architecture, SOLID, Clean Code, Performance Optimization
+- 🎯 **Best Practices:** Domain-Driven Design (DDD), Microservices, Event-Driven Architecture, Moduler Design(Node/React/Nest/Next), SOLID, Clean Code, Performance Optimization
 
 ---
 
