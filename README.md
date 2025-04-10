@@ -49,9 +49,6 @@
 
 Got a **next-level** project? Want to **revolutionize** an industry? Let's build something extraordinary.
 
-📩 **Reach out on [LinkedIn](https://www.linkedin.com/in/jsiqbal/)**  
-🌎 **Check out my Portfolio: [jsiqbal.vercel.app](https://jsiqbal.vercel.app)**
-
 ---
 
 🔥 **This README is as elite as my engineering skills.** 😎  
