@@ -20,7 +20,7 @@ My journey is about designing systems that endure, scaling ideas that inspire, a
 
 | Domain | Technologies |
 |:---|:---|
-| **Backend Engineering** | GoLang, TypeScript, NestJS, Node.js |
+| **Backend Engineering** | GoLang, Rust, TypeScript, NestJS, Node.js |
 | **Databases & Messaging** | PostgreSQL, MongoDB, DynamoDB, Redis, RabbitMQ |
 | **Frontend Development** | React.js, Next.js, Vue.js, Angular, TailwindCSS, ShadcnUI, Bootstrap |
 | **Cloud & DevOps** | AWS, Cloudflare, Vercel, Docker, Kubernetes, Terraform, Serverless Framework, GitHub Actions, Jenkins, Helm |
@@ -34,6 +34,7 @@ My journey is about designing systems that endure, scaling ideas that inspire, a
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" alt="Golang" width="50" height="50"/>
+  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" width="50" height="50"/>
